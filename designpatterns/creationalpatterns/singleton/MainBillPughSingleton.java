@@ -15,5 +15,4 @@ public class MainBillPughSingleton
 		BillPughSingleton bps1=BillPughSingleton.getInstance();
 		System.out.println(" "+bps1.hashCode());
 	}
-
 }
